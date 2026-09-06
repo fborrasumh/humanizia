@@ -41,6 +41,12 @@ mantenido por WikiProject AI Cleanup.
 Abre `index.html` en el navegador, pega tu clave de OpenAI en el paso 0 y elige modelo:
 gpt-4o-mini para pruebas, o la familia gpt-5.6 (luna, terra, sol) para textos largos.
 
+## Alcance y uso responsable
+
+HumanizIA mejora el estilo de un texto. No es una herramienta para eludir detectores de IA ni marcados de procedencia, y su uso no exime de declarar que se ha empleado IA.
+
+La reescritura solo puede trabajar con lo que dice el texto de partida: un nombre, una cifra, una fecha o una cita nunca se inventan, y la app incluye una comprobación automática que avisa de cualquier dato que aparezca en el resultado y no estuviera en el original.
+
 ## Autoría
 
 Fernando Borrás Rocher, Universidad Miguel Hernández de Elche.

@@ -39,7 +39,7 @@ mantenido por WikiProject AI Cleanup.
 ## Uso
 
 Abre `index.html` en el navegador, pega tu clave de OpenAI en el paso 0 y elige modelo:
-gpt-4o-mini para pruebas, o la familia gpt-5.6 (luna, terra, sol) para textos largos.
+gpt-6-luna por defecto, gpt-4o-mini para pruebas, o la familia gpt-5.6 (luna, terra, sol) para textos largos.
 
 ## Alcance y uso responsable
 
